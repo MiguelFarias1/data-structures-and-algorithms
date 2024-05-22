@@ -1,5 +1,3 @@
-package SRC.src;
-
 import Lista.LinkedList;
 
 public class Main {
